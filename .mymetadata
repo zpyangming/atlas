@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="atlas"
+  id="myeclipse.1447762687144"
+  context-root="/atlas"
+  j2ee-spec="5.0"
+  archive="atlas.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
